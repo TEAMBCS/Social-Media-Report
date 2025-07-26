@@ -80,7 +80,7 @@ Name	MD Shawon islam Saim
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/TEAMBCS/Tg_Report.git
+git clone https://github.com/TEAMBCS/Social-Media-Report
  cd Tg_Report
 python report
 
