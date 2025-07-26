@@ -81,6 +81,6 @@ Open your terminal and run:
 
 ```bash
 git clone https://github.com/TEAMBCS/Social-Media-Report
- cd Social-Media-Report
-python report
+cd Social-Media-Report
+python report.py
 
