@@ -35,14 +35,6 @@
 
 ---
 
-## 📦 Installation
-
-Open your terminal and run:
-
-```bash
-git clone https://github.com/yourusername/tg-report-tool.git
-cd tg-report-tool
-
 
 ---
 
@@ -83,3 +75,13 @@ Name	MD Shawon islam Saim
 ⭐ Star the repo if you like it and want to support development!
 
 ---
+## 📦 Installation
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/yourusername/tg-report-tool.git
+cd tg-report
+ cd tg-Report
+python report
+
